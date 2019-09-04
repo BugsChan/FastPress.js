@@ -7,4 +7,4 @@ FastPress 是一个方便的快捷键框架。引入KeyboardCtrl.js后，用户�
 - 浏览器支持
 支持Chrome和Firefox浏览器，因为使用了es6, 可能不会支持IE系列的老浏览器。
 - 使用效果
-![](../img/screenshot.png)
+![](https://raw.githubusercontent.com/BugsChan/FastPress.js/master/img/screenshot.png)
