@@ -1,4 +1,4 @@
-##FastPress.js - 方便的快捷键框架  
+## FastPress.js - 方便的快捷键框架  
 - 什么是FastPress?  
 FastPress 是一个方便的快捷键框架。引入KeyboardCtrl.js后，用户按下 *Ctrl*键后，
 每个链接、输入框、选择框、按钮处将会出现快捷键提示，用户可以通过按快捷键获得焦点.
